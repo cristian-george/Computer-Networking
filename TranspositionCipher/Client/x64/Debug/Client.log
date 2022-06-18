@@ -1,0 +1,7 @@
+﻿  Client.cpp
+D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema4\TranspositionCipher\TranspositionCipher\TranspositionCipher.cpp(40,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema4\TranspositionCipher\TranspositionCipher\TranspositionCipher.cpp(43,52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema4\TranspositionCipher\TranspositionCipher\TranspositionCipher.cpp(67,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema4\TranspositionCipher\TranspositionCipher\TranspositionCipher.cpp(70,52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema4\TranspositionCipher\Client\Client.cpp(34,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Client.vcxproj -> D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema4\TranspositionCipher\x64\Debug\Client.exe

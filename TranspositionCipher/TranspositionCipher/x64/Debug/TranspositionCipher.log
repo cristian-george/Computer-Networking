@@ -1,0 +1,5 @@
+﻿  TranspositionCipher.cpp
+D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema4\TranspositionCipher\TranspositionCipher\TranspositionCipher.cpp(40,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema4\TranspositionCipher\TranspositionCipher\TranspositionCipher.cpp(43,62): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema4\TranspositionCipher\x64\Debug\TranspositionCipher.exe : fatal error LNK1120: 1 unresolved externals
