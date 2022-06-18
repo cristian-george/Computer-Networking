@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema3\SlidingWindow\Source.cpp(23,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  SlidingWindow.vcxproj -> D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema3\SlidingWindow\x64\Debug\SlidingWindow.exe
