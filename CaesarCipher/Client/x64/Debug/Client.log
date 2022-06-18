@@ -1,0 +1,9 @@
+﻿  Client.cpp
+D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema5\CaesarCipher\Client\Client.cpp(14,24): warning C4018: '<': signed/unsigned mismatch
+D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema5\CaesarCipher\Client\Client.cpp(19,28): warning C4018: '<=': signed/unsigned mismatch
+D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema5\CaesarCipher\Client\Client.cpp(24,28): warning C4018: '<=': signed/unsigned mismatch
+D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema5\CaesarCipher\Client\Client.cpp(66,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema5\CaesarCipher\Client\Client.cpp(70,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema5\CaesarCipher\Client\Client.cpp(101,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema5\CaesarCipher\Client\Client.cpp(121,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Client.vcxproj -> D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema5\CaesarCipher\x64\Debug\Client.exe

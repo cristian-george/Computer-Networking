@@ -1,0 +1,7 @@
+﻿  Server.cpp
+D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema5\CaesarCipher\Server\Server.cpp(20,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema5\CaesarCipher\Server\Server.cpp(26,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema5\CaesarCipher\Server\Server.cpp(45,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema5\CaesarCipher\Server\Server.cpp(48,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema5\CaesarCipher\Server\Server.cpp(63,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Server.vcxproj -> D:\Facultate\ANUL 2\Semestrul 2\Reţele de calculatoare\Laboratoare\Tema5\CaesarCipher\x64\Debug\Server.exe
